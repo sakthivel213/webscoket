@@ -1,1 +1,3 @@
 
+    [+] Recieve message on client and display it. scrollToBottom etc...
+    
